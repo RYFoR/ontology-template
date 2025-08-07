@@ -1,8 +1,13 @@
 # Sample Ontology
 
-
-![GitHub](https://img.shields.io/github/license/yourusername/ontology-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ontology-repo)
+![FAIR Data](https://img.shields.io/badge/FAIR-compliant-4caf50.svg)
+![RDF](https://img.shields.io/badge/RDF-1e90ff.svg?logo=data)
+![OWL](https://img.shields.io/badge/OWL-ff9800.svg?logo=semanticweb)
+![RDFS](https://img.shields.io/badge/RDFS-673ab7.svg)
+![Linked Open Data](https://img.shields.io/badge/Linked%20Open%20Data-enabled-blue)
+![License: CC-BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)
+![Reuse Friendly](https://img.shields.io/badge/reusable-template-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/RYFoR/ontology-template.svg)
 
 ## Table of Contents
 - [Introduction](#introduction)
